@@ -1,159 +1,158 @@
 #EXTM3U
 
 # ==========================================
-# GRUPO: COLOMBIA NACIONAL
+# GRUPO: COLOMBIA NACIONAL Y NOTICIAS
 # ==========================================
-#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://imgur.com" group-title="Colombia Nacional",Caracol TV HD
+#EXTINF:-1 tvg-id="CaracolHD2.co@SD" tvg-logo="https://imgur.com" group-title="Colombia Nacional",Caracol HD2
 http://181.78.14
 
-#EXTINF:-1 tvg-id="CanalRCN.co" tvg-logo="https://imgur.com" group-title="Colombia Nacional",Canal RCN HD
+#EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-logo="https://imgur.com" group-title="Colombia Nacional",Canal RCN (1080p)
 http://138.121.15
 
-#EXTINF:-1 tvg-id="Canal1.co" tvg-logo="https://imgur.com" group-title="Colombia Nacional",Canal 1 HD
+#EXTINF:-1 tvg-id="RCNHD2.co@SD" tvg-logo="https://imgur.com" group-title="Colombia Nacional",RCN HD2 (1080p)
+http://181.78.14
+
+#EXTINF:-1 tvg-id="Canal1.co@SD" tvg-logo="https://imgur.com" group-title="Colombia Nacional",Canal 1 (Colombia) (576p)
 http://138.121.15
 
-#EXTINF:-1 tvg-id="Citytv.co" tvg-logo="https://imgur.com" group-title="Colombia Nacional",Citytv Bogota
+#EXTINF:-1 tvg-id="CitytvBogota.co@SD" tvg-logo="https://imgur.com" group-title="Colombia Nacional",Citytv Bogota (1080p)
 http://138.121.15
 
-#EXTINF:-1 tvg-id="SenalColombia.co" tvg-logo="https://imgur.com" group-title="Colombia Nacional",Señal Colombia
+#EXTINF:-1 tvg-id="CanalInstitucional.co@SD" tvg-logo="https://imgur.com" group-title="Colombia Nacional",Canal Institucional (720p)
 https://rtvc.gov.co
 
-#EXTINF:-1 tvg-id="CanalInstitucional.co" tvg-logo="https://imgur.com" group-title="Colombia Nacional",Canal Institucional
-https://rtvc.gov.co
-
-# ==========================================
-# GRUPO: COLOMBIA REGIONAL
-# ==========================================
-#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-logo="https://imgur.com" group-title="Colombia Regional",Teleantioquia
-http://138.121.15
-
-#EXTINF:-1 tvg-id="Telecaribe.co" tvg-logo="https://imgur.com" group-title="Colombia Regional",Telecaribe
-http://138.121.15
-
-#EXTINF:-1 tvg-id="Telepacifico.co" tvg-logo="https://imgur.com" group-title="Colombia Regional",Telepacifico
-http://138.121.15
-
-#EXTINF:-1 tvg-id="CanalCapital.co" tvg-logo="https://imgur.com" group-title="Colombia Regional",Canal Capital
-http://138.121.15
-
-#EXTINF:-1 tvg-id="Telecafe.co" tvg-logo="https://imgur.com" group-title="Colombia Regional",Telecafé
-https://ejeserver.com
-
-#EXTINF:-1 tvg-id="Teleislas.co" tvg-logo="https://imgur.com" group-title="Colombia Regional",Teleislas
-https://streamlock.net
-
-#EXTINF:-1 tvg-id="CanalTRO.co" tvg-logo="https://ibb.co" group-title="Colombia Regional",Canal TRO
-https://bozztv.com
-
-#EXTINF:-1 tvg-id="TeleQuindio.co" tvg-logo="https://imgur.com" group-title="Colombia Regional",TeleQuindio
-https://bozztv.com
-
-#EXTINF:-1 tvg-id="CNCTulua.co" tvg-logo="https://imgur.com" group-title="Colombia Regional",CNC Tuluá
-https://amelbatv.co
-
-#EXTINF:-1 tvg-id="CNCPereira.co" tvg-logo="https://imgur.com" group-title="Colombia Regional",CNC Pereira
-https://servers10.com
-
-#EXTINF:-1 tvg-id="CNCBugavision.co" tvg-logo="https://imgur.com" group-title="Colombia Regional",CNC Bugavision
-https://ejeserver.com
-
-#EXTINF:-1 tvg-id="MarsellaTV.co" tvg-logo="https://imgur.com" group-title="Colombia Regional",Marsella TV
-https://voxtvhd.com.br
-
-#EXTINF:-1 tvg-id="TeleMocoa.co" tvg-logo="https://imgur.com" group-title="Colombia Regional",Tele Mocoa
-https://amelbatv.co
-
-# ==========================================
-# GRUPO: DEPORTES Y NOTICIAS
-# ==========================================
-#EXTINF:-1 tvg-id="WinSports.co" tvg-logo="https://imgur.com" group-title="Deportes Y Noticias",Win Sports
-http://138.121.15
-
-#EXTINF:-1 tvg-id="Cablenoticias.co" tvg-logo="https://imgur.com" group-title="Deportes Y Noticias",Cablenoticias
+#EXTINF:-1 tvg-id="Cablenoticias.co@SD" tvg-logo="https://imgur.com" group-title="Noticias",Cablenoticias (1080p)
 http://181.78.211
 
-#EXTINF:-1 tvg-id="NoticiasRCN.co" tvg-logo="https://imgur.com" group-title="Deportes Y Noticias",Noticias RCN
+#EXTINF:-1 tvg-id="NoticiasRCN.co@SD" tvg-logo="https://imgur.com" group-title="Noticias",Noticias RCN (720p)
 https://jmp2.uk
 
-#EXTINF:-1 tvg-id="Momento24.co" tvg-logo="https://imgur.com" group-title="Deportes Y Noticias",Momento24
+#EXTINF:-1 tvg-id="Momento24.co@SD" tvg-logo="https://imgur.com" group-title="Noticias",Momento24
 https://hvmultiplay.com
 
-#EXTINF:-1 tvg-id="Noticiero90Minutos.co" tvg-logo="https://imgur.com" group-title="Deportes Y Noticias",Noticiero 90 Minutos
+#EXTINF:-1 tvg-id="Noticiero90Minutos.co@SD" tvg-logo="https://imgur.com" group-title="Noticias",Noticiero 90 Minutos (1080p)
 https://enetres.net
 
-#EXTINF:-1 tvg-id="CanalCongreso.co" tvg-logo="https://imgur.com" group-title="Deportes Y Noticias",Canal Congreso
+#EXTINF:-1 tvg-id="CanalCongreso.co@SD" tvg-logo="https://imgur.com" group-title="Noticias",Canal Congreso (1080p)
 http://138.121.15
 
 # ==========================================
-# GRUPO: ARGENTINA Y URUGUAY
+# GRUPO: DEPORTES, CINE Y ENTRETENIMIENTO
 # ==========================================
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://wikimedia.org" group-title="Argentina Y Uruguay",Telefe Internacional
+#EXTINF:-1 tvg-id="WinSports.co@SD" tvg-logo="https://imgur.com" group-title="Deportes y Cine",Win Sports (1080p)
+http://138.121.15
+
+#EXTINF:-1 tvg-id="Cinecanal.us@Panregional" tvg-logo="https://wikimedia.org" group-title="Deportes y Cine",Cinecanal (1080p)
 http://15.204.246
 
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://wikimedia.org" group-title="Argentina Y Uruguay",El Trece Internacional
-http://15.204.246
+#EXTINF:-1 tvg-id="CanalCineDios.co@SD" tvg-logo="https://imgur.com" group-title="Deportes y Cine",Canal Cine Dios
+https://mediaserver.com.co
 
-#EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://wikimedia.org" group-title="Argentina Y Uruguay",TV Pública Argentina
-http://181.78.14
+#EXTINF:-1 tvg-id="RedPlus.co@SD" tvg-logo="https://imgur.com" group-title="Entretenimiento",Red+ (1080p)
+https://claro.net.co
 
-#EXTINF:-1 tvg-id="Canal9.ar" tvg-logo="https://wikimedia.org" group-title="Argentina Y Uruguay",El Nueve Bs As
-http://190.14.10
+#EXTINF:-1 tvg-id="MCITelevision.co@SD" tvg-logo="https://twimg.com" group-title="Entretenimiento",MCI Television (1080p)
+https://ejeserver.com
 
-#EXTINF:-1 tvg-id="Canal4.uy" tvg-logo="https://wikimedia.org" group-title="Argentina Y Uruguay",Canal 4 (Uruguay)
-http://181.78.14
+#EXTINF:-1 tvg-id="ANCTelevision.co@SD" tvg-logo="https://imgur.com" group-title="Entretenimiento",ANC Television (720p)
+https://amelbatv.co
 
-# ==========================================
-# GRUPO: MÉXICO Y CENTROAMÉRICA
-# ==========================================
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-logo="https://wikimedia.org" group-title="Mexico Y Centroamerica",Las Estrellas
-http://190.14.10
+#EXTINF:-1 tvg-id="Canal14Codazzi.co@SD" tvg-logo="https://imgur.com" group-title="Entretenimiento",Canal 14 Codazzi (720p) [Not 24/7]
+https://servers10.com
 
-#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://wikimedia.org" group-title="Mexico Y Centroamerica",TV Azteca Uno
-http://181.78.8
+#EXTINF:-1 tvg-id="CanalNets.co@SD" tvg-logo="https://imgur.com" group-title="Entretenimiento",Canal Nets (720p) [Not 24/7]
+https://ejeserver.com
 
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-logo="https://wikimedia.org" group-title="Mexico Y Centroamerica",TV Azteca Siete
-http://168.232.168.242:4000/play/a04b/index.m3u8
+#EXTINF:-1 tvg-id="CanicaTV.co@SD" tvg-logo="https://imgur.com" group-title="Entretenimiento",Canica TV (240p)
+https://voxtvhd.com.br
 
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://wikimedia.org" group-title="Mexico Y Centroamerica",Canal 5 México
-http://181.78.8
+#EXTINF:-1 tvg-id="CanalWomtv.co@SD" tvg-logo="https://imgur.com" group-title="Entretenimiento",Canal Womtv (720p)
+https://amelbatv.co
 
-#EXTINF:-1 tvg-id="ForoTV.mx" tvg-logo="https://wikimedia.org" group-title="Mexico Y Centroamerica",Foro TV Noticias
-http://15.204.246
+#EXTINF:-1 tvg-id="TeveColombia.co@SD" tvg-logo="https://imgur.com" group-title="Entretenimiento",TeveColombia (720p) [Not 24/7]
+https://livescast.com
 
-#EXTINF:-1 tvg-id="Teletica.cr" tvg-logo="https://wikimedia.org" group-title="Mexico Y Centroamerica",Teletica Canal 7 (Costa Rica)
-http://181.78.14
+#EXTINF:-1 tvg-id="TVGolfoUraba.co@SD" tvg-logo="https://imgur.com" group-title="Entretenimiento",TV Golfo Uraba
+https://voxtvhd.com.br
 
-# ==========================================
-# GRUPO: CHILE, PERÚ Y BOLIVIA
-# ==========================================
-#EXTINF:-1 tvg-id="TVN.cl" tvg-logo="https://wikimedia.org" group-title="Chile Peru Y Bolivia",TVN (Chile)
-http://181.78.14
-
-#EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://wikimedia.org" group-title="Chile Peru Y Bolivia",Mega HD Chile
-http://fortv.cc:8080/live/A5aaXj/235081/164883.m3u8
-
-#EXTINF:-1 tvg-id="Chilevision.cl" tvg-logo="https://wikimedia.org" group-title="Chile Peru Y Bolivia",Chilevisión
-http://181.78.14
-
-#EXTINF:-1 tvg-id="AmericaTV.pe" tvg-logo="https://wikimedia.org" group-title="Chile Peru Y Bolivia",América Televisión (Perú)
-http://15.204.246
-
-#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://wikimedia.org" group-title="Chile Peru Y Bolivia",Latina TV Perú
-http://190.14.10
-
-#EXTINF:-1 tvg-id="Panamericana.pe" tvg-logo="https://wikimedia.org" group-title="Chile Peru Y Bolivia",Panamericana TV
-http://181.78.8
-
-#EXTINF:-1 tvg-id="Unitel.bo" tvg-logo="https://wikimedia.org" group-title="Chile Peru Y Bolivia",Unitel Bolivia
-http://15.204.246
+#EXTINF:-1 tvg-id="UltraCasanareTV.co@SD" tvg-logo="https://imgur.com" group-title="Entretenimiento",Ultra Casanare TV (1080p) [Not 24/7]
+https://servers10.com
 
 # ==========================================
-# GRUPO: ECUADOR Y VENEZUELA
+# GRUPO: COLOMBIA REGIONAL KEY
 # ==========================================
-#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-logo="https://wikimedia.org" group-title="Ecuador Y Venezuela",Ecuavisa
-http://190.14.10
+#EXTINF:-1 tvg-id="Teleantioquia.co@SD" tvg-logo="https://imgur.com" group-title="Colombia Regional",Teleantioquia (1080p)
+http://138.121.15
 
-#EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-logo="https://wikimedia.org" group-title="Ecuador Y Venezuela",Teleamazonas Ecuador
-http://181.78.8
+#EXTINF:-1 tvg-id="Telecaribe.co@SD" tvg-logo="https://imgur.com" group-title="Colombia Regional",Telecaribe (1080p)
+http://138.121.15
 
-#EXTINF:-1 tvg-id="TCTelevision.ec" tvg-logo="https://wikimedia.org" group-title="Ecuador Y Venezuela",TC Televisión
+#EXTINF:-1 tvg-id="Telepacifico.co@SD" tvg-logo="https://imgur.com" group-title="Colombia Regional",Telepacifico (1080p)
+http://138.121.15
+
+#EXTINF:-1 tvg-id="CanalCapital.co@SD" tvg-logo="https://imgur.com" group-title="Colombia Regional",Canal Capital (1080p)
+http://138.121.15
+
+#EXTINF:-1 tvg-id="Teleislas.co@SD" tvg-logo="https://imgur.com" group-title="Colombia Regional",Teleislas (486p) [Not 24/7]
+https://streamlock.net
+
+#EXTINF:-1 tvg-id="TeleQuindio.co@SD" tvg-logo="https://imgur.com" group-title="Colombia Regional",TeleQuindio (1080p)
+https://bozztv.com
+
+#EXTINF:-1 tvg-id="Telesangil.co@SD" tvg-logo="https://ibb.co" group-title="Colombia Regional",Telesangil (720p)
+https://bozztv.com
+
+#EXTINF:-1 tvg-id="TeleMocoaCanal10.co@SD" tvg-logo="https://imgur.com" group-title="Colombia Regional",Tele Mocoa Canal 10 (720p)
+https://amelbatv.co
+
+#EXTINF:-1 tvg-id="AupurTelevision.co@SD" tvg-logo="https://imgur.com" group-title="Colombia Regional",Aupur Television (1080p)
+https://aupurtv.co
+
+#EXTINF:-1 tvg-id="AmagaTelevision.co@SD" tvg-logo="https://imgur.com" group-title="Colombia Regional",Amaga Television (720p)
+https://viewhn.com
+
+#EXTINF:-1 tvg-id="BUMTelevision.co@SD" tvg-logo="https://imgur.com" group-title="Colombia Regional",BUM Television (720p) [Not 24/7]
+https://ejeserver.com
+
+#EXTINF:-1 tvg-id="Canal8TVPlus.co@SD" tvg-logo="https://imgur.com" group-title="Colombia Regional",Canal 8 TV+ (720p)
+https://ejeserver.com
+
+#EXTINF:-1 tvg-id="Canal2AlpavisionNeiva.co@SD" tvg-logo="https://imgur.com" group-title="Colombia Regional",Canal 2 Alpavision Neiva (720p) [Not 24/7]
+https://voxtvhd.com.br
+
+#EXTINF:-1 tvg-id="CanalCalimaTV.co@SD" tvg-logo="https://imgur.com" group-title="Colombia Regional",Canal Calima TV (720p)
+https://ejeserver.com
+
+#EXTINF:-1 tvg-id="CanalDos.co@SD" tvg-logo="https://imgur.com" group-title="Colombia Regional",Canal Dos (720p)
+http://131.221.41
+
+#EXTINF:-1 tvg-id="CanalMasTelevision.co@SD" tvg-logo="https://imgur.com" group-title="Colombia Regional",Canal Mas Television (720p)
+https://ejeserver.com
+
+#EXTINF:-1 tvg-id="CanalTV3.co@SD" tvg-logo="https://imgur.com" group-title="Colombia Regional",Canal TV3 (720p) [Not 24/7]
+https://telenetdigital.net.co
+
+#EXTINF:-1 tvg-id="CNCAMBugavision.co@SD" tvg-logo="https://imgur.com" group-title="Colombia Regional",CNC Bugavision (720p)
+https://ejeserver.com
+
+#EXTINF:-1 tvg-id="CNCSantanderdeQuilichao.co@SD" tvg-logo="https://imgur.com" group-title="Colombia Regional",CNC Santander de Quilichao (480p)
+https://ejeserver.com
+
+#EXTINF:-1 tvg-id="CNCTulua.co@SD" tvg-logo="https://imgur.com" group-title="Colombia Regional",CNC Tulua (1080p)
+https://amelbatv.co
+
+#EXTINF:-1 tvg-id="CNCPereira.co@SD" tvg-logo="https://imgur.com" group-title="Colombia Regional",CNC Pereira (720p)
+https://servers10.com
+
+#EXTINF:-1 tvg-id="HeliconiaRadioTV.co@SD" tvg-logo="https://imgur.com" group-title="Colombia Regional",Heliconia Radio TV (720p)
+https://servers10.com
+
+#EXTINF:-1 tvg-id="MarsellaTV.co@SD" tvg-logo="https://imgur.com" group-title="Colombia Regional",Marsella TV
+https://voxtvhd.com.br
+
+#EXTINF:-1 tvg-id="MasNorteTV.co@SD" tvg-logo="https://imgur.com" group-title="Colombia Regional",Mas Norte TV [Not 24/7]
+https://arnoproducciones.com
+
+#EXTINF:-1 tvg-id="TV3LaPlata.co@SD" tvg-logo="https://imgur.com" group-title="Colombia Regional",TV3 La Plata (480p)
+https://amelbatv.co
+
